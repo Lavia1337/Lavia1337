@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Lavia1337/Lavia1337/blob/main/welcome-black-min.gif" alt="Welcome">
+<img src="https://github.com/Lavia1337/Lavia1337/blob/main/welcome.gif" alt="Welcome">
 
 ## Github Stats
 ![Lavia1337's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lavia1337&show_icons=true)
