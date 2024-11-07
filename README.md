@@ -1,27 +1,27 @@
 <div align="center">
-<img src="https://github.com/aenq/aenq/blob/main/welcome-black-min.gif" alt="Welcome">
+<img src="https://github.com/Lavia1337/Lavia1337/blob/main/welcome-black-min.gif" alt="Welcome">
 
 ## Github Stats
-<!-- ![Aenq's GitHub stats](https://github-readme-stats.vercel.app/api?username=aenq&show_icons=true)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lavia1337&label=Profile%20views&color=0e75b6&style=flat" alt="Lavia1337" /> </p>
+<!-- ![Lavia1337's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lavia1337&show_icons=true)
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lavia1337&show_icons=true&locale=en&layout=compact" alt="Lavia1337" /></p>
  -->
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lavia1337&theme=dark&show_icons=true&layout=compact&langs_count=7) <br>
-<!-- ![Aenq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lavia1337&theme=dark&show_icons=true)  -->
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lavia1337&theme=dark&show_icons=true&layout=compact&langs_count=7) <br> 
+<!-- ![Lavia1337's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lavia1337&theme=dark&show_icons=true)  -->
 <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lavia1337&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
 </div>
 <!--
 ## Find me on
 <p>
   <a href="mailto:laviasusanto@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-<!--   <a href="https://www.linkedin.com/in/rachelmartam"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a> 
-  <a href="https://www.instagram.com/rachelmartam"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
-  <a href="https://open.spotify.com/user/nufwbt70xpxz6e3xrp9dwixdw"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
+  
  -->
 
 <br>
 <div align="center">
 <p>Thank you for visiting my profile, please leave something in my guestbook 👇 :</p>
+ <a href="https://github.com/Lavia1337/Lavia1337/issues/3#issuecomment-new"><img src="https://github.com/Lavia1337/Lavia1337/blob/main/GUEST_BOOK_GIF.gif" alt="Guest book"></a>
 </div>
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aenq&label=Profile%20views&color=0e75b6&style=flat" alt="aenq" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lavia1337&label=Profile%20views&color=0e75b6&style=flat" alt="Lavia1337" /> </p>
