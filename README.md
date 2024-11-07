@@ -3,7 +3,7 @@
 
 ## Github Stats
 <!-- ![Aenq's GitHub stats](https://github-readme-stats.vercel.app/api?username=aenq&show_icons=true)
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aenq&show_icons=true&locale=en&layout=compact" alt="aenq" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HuynhDuc&label=Profile%20views&color=0e75b6&style=flat" alt="HuynhDuc" /> </p>
  -->
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lavia1337&theme=dark&show_icons=true&layout=compact&langs_count=7) <br>
 <!-- ![Aenq's GitHub stats](https://github-readme-stats.vercel.app/api?username=aenq&theme=dark&show_icons=true)  -->
