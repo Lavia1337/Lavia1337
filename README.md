@@ -15,8 +15,9 @@
 
 <br>
 <div align="center">
-<p>Thank you for visiting my profile, please leave something in my guestbook 👇 :</p>
- <a href="https://github.com/Lavia1337/Lavia1337/issues/3#issuecomment-new"><img src="https://github.com/Lavia1337/Lavia1337/blob/main/GUEST_BOOK_GIF.gif" alt="Guest book"></a>
+<p>Thank you for visiting my profile</p>
+  <!-- , please leave something in my guestbook 👇 :
+ <a href="https://github.com/Lavia1337/Lavia1337/issues/3#issuecomment-new"><img src="https://github.com/Lavia1337/Lavia1337/blob/main/GUEST_BOOK_GIF.gif" alt="Guest book"></a>-->
 </div>
 
 <br>
