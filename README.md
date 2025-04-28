@@ -11,7 +11,7 @@
 
 ## Find me on
 <p>
-  <a href="mailto:laviasusanto@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a href="laviasusanto@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
 
 <br>
 <div align="center">
